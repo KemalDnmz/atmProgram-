@@ -1,2 +1,2 @@
 # atmProgram-
-whilw döngüsü kullanarak basit atm programı yapma
+while döngüsü kullanarak basit atm programı yapma
